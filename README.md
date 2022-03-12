@@ -17,5 +17,5 @@ To the best of our knowledge, this is the first work that performs model-archite
 
 # Hardware architecture
 <p align="center">
-  <img src="./pic/arch.PNG" alt="drawing" width="800"/>
+  <img src="./pic/arch.PNG" alt="drawing" width="1200"/>
 </p>
