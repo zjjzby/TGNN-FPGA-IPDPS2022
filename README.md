@@ -13,3 +13,9 @@ We evaluate the performance of the proposed hardware accelerator on three real-w
 The proposed model reduces the computation complexity by 84% and memory accesses by $67\%$ with less than 0.33% accuracy loss. 
 Compared with CPU/GPU, our FPGA accelerator achieves 16.4/2.3x speedup in latency and $0.27\%$ improvement in accuracy compared with the state-of-the-art inference algorithm. 
 To the best of our knowledge, this is the first work that performs model-architecture co-design on memory-based Temporal Graph Neural Networks.
+
+
+# Hardware architecture
+<p align="center">
+  <img src="./pic/arch.PNG" alt="drawing" width="800"/>
+</p>
