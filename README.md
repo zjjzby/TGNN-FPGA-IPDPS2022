@@ -21,3 +21,15 @@ To the best of our knowledge, this is the first work that performs model-archite
 <p align="center">
   <img src="./pic/arch.PNG" alt="drawing" width="1200"/>
 </p>
+
+# Citation
+```
+@INPROCEEDINGS{9820671,
+  author={Zhou, Hongkuan and Zhang, Bingyi and Kannan, Rajgopal and Prasanna, Viktor and Busart, Carl},
+  booktitle={2022 IEEE International Parallel and Distributed Processing Symposium (IPDPS)}, 
+  title={Model-Architecture Co-Design for High Performance Temporal GNN Inference on FPGA}, 
+  year={2022},
+  pages={1108-1117},
+  doi={10.1109/IPDPS53621.2022.00111}
+}
+```
